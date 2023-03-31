@@ -37,7 +37,7 @@ This challenge was interesting to get familiar with some CSS properties and prop
 ### Useful resources
 
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Guide which helped me to center the main card with flexbox.
-- [Modern CSS Units](https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/) - Article (in portuguese) that helped me understand modern CSS size units.
+- [Modern CSS Units](https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/) - Article (in portuguese) that helped me to understand modern CSS size units.
 
 ## Author
 
