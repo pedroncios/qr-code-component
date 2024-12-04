@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Front-end Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-layout-IgCCI2AWBu)
-- Live Site URL: [Github Pages](https://pedroncios.github.io/frontend-mentor-qr-code/)
+- Live Site URL: [Github Pages](https://pedroncios.github.io/qr-code-component/)
 
 ## My process
 
